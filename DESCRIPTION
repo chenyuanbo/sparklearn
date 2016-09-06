@@ -1,5 +1,5 @@
 Package: learning-spark-examples
-Version: 0.1
+Version: 0.10
 Depends: Imap
 License: MIT License
 Description: Examples for the learning spark book.
